@@ -1,15 +1,3 @@
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: MANIMEGALAI S
-
-INTERN ID: CT04DH1317
-
-DOMAIN: FRONTEND WEB DEVEOPEMENT
-
-DURATION :4 WEEKS
-
-MENTOR: NEELA SANTHOSH KUMAR
-
 DESCRIPTION: Overview
 This webpage is a simple chatbot interface that allows users to type and send messages, and get predefined responses from the chatbot. It looks clean, modern, and is designed to be user-friendly on both desktop and mobile devices. The chatbot works fully in the browser without requiring any internet connection or server.
 
